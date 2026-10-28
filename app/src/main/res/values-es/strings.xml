@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TaskNest</string>
+    <string name="quick_add_tile_label">Añadir tarea rápida</string>
+    <string name="widget_today_title">Tareas de hoy</string>
+    <string name="widget_quick_add_title">Añadir rápido</string>
+    <string name="shortcut_new_task_short">Nueva tarea</string>
+    <string name="shortcut_new_task_long">Crear una nueva tarea</string>
+    <string name="shortcut_today_short">Hoy</string>
+    <string name="shortcut_today_long">Ver las tareas de hoy</string>
+    <string name="shortcut_pomodoro_short">Pomodoro</string>
+    <string name="shortcut_pomodoro_long">Iniciar temporizador Pomodoro</string>
+    <string name="onboarding_welcome_headline">Tus tareas, solo en tu dispositivo</string>
+    <string name="onboarding_welcome_subtitle">100% sin conexión. Sin cuentas, sin servidores en la nube, sin rastreo y sin anuncios.</string>
+    <string name="nav_tasks">Tareas</string>
+    <string name="nav_search">Buscar</string>
+    <string name="nav_views">Vistas</string>
+    <string name="nav_stats">Estadísticas</string>
+    <string name="nav_settings">Ajustes</string>
+</resources>

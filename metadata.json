@@ -1,0 +1,6 @@
+{
+  "name": "TaskNest",
+  "description": "Offline-first expressive task, reminder, and productivity manager built with Kotlin, Room, and Material 3 Expressive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

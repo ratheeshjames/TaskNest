@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TaskNest</string>
+    <string name="quick_add_tile_label">Quick Add Task</string>
+    <string name="widget_today_title">Today\'s Tasks</string>
+    <string name="widget_quick_add_title">Quick Add</string>
+    <string name="shortcut_new_task_short">New Task</string>
+    <string name="shortcut_new_task_long">Create a new task</string>
+    <string name="shortcut_today_short">Today</string>
+    <string name="shortcut_today_long">View today\'s tasks</string>
+    <string name="shortcut_pomodoro_short">Pomodoro</string>
+    <string name="shortcut_pomodoro_long">Start Pomodoro focus timer</string>
+    <string name="onboarding_welcome_headline">Your tasks, only on your device</string>
+    <string name="onboarding_welcome_subtitle">100% offline-first. Zero accounts, zero cloud servers, zero tracking, and zero ads.</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_views">Views</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_settings">Settings</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Nest Bowl Silhouette -->
+    <path
+        android:fillColor="#FFF5B841"
+        android:pathData="M26,56 C26,71.46 38.54,84 54,84 C69.46,84 82,71.46 82,56 L74,56 C74,67.05 65.05,76 54,76 C42.95,76 34,67.05 34,56 Z" />
+    <path
+        android:fillColor="#FFE09F24"
+        android:pathData="M31,62 C34.5,72.5 43.5,79 54,79 C64.5,79 73.5,72.5 77,62 L70,62 C67,69 61,73 54,73 C47,73 41,69 38,62 Z" />
+    <!-- Bold Expressive Checkmark Rising from Nest -->
+    <path
+        android:fillColor="#FF7EF4CC"
+        android:pathData="M48.5,64.5 L35.5,51.5 L41.2,45.8 L48.5,53.1 L67.8,33.8 L73.5,39.5 Z" />
+</vector>
